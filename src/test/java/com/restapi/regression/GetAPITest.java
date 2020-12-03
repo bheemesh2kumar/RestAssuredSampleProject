@@ -23,6 +23,8 @@ public class GetAPITest {
 		System.out.println(response.getStatusCode());
 
 		System.out.println(response.getStatusLine());
+		
+		System.out.println("statusline" + response.getStatusLine());
 
 	}
 
