@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="8906" started-at="2020-12-03T16:41:10 IST" finished-at="2020-12-03T16:41:19 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="8906" started-at="2020-12-03T16:41:10 IST" finished-at="2020-12-03T16:41:19 IST">
+      <class name="com.restapi.regression.GetAPITest">
+        <test-method status="PASS" signature="getvalidation()[pri:0, instance:com.restapi.regression.GetAPITest@91161c7]" name="getvalidation" duration-ms="8810" started-at="2020-12-03T16:41:10 IST" finished-at="2020-12-03T16:41:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getvalidation -->
+      </class> <!-- com.restapi.regression.GetAPITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
